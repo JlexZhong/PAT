@@ -10,7 +10,7 @@
         "-std=c++20",
         "\"${file}\"",
         "-o",
-        "\"E:\\VscodeC++\\exe\\${fileBasenameNoExtension}.exe\""
+        "\"E:\\VsCode_C++Demo\\build\\${fileBasenameNoExtension}.exe\""
       ],
       "group": {
         "kind": "build",

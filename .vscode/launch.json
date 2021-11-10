@@ -5,7 +5,7 @@
       "name": "g++.exe build and debug active file",
       "type": "cppdbg",
       "request": "launch",
-      "program": "E:\\VscodeC++\\exe\\${fileBasenameNoExtension}.exe",
+      "program": "E:\\VsCode_C++Demo\\build\\${fileBasenameNoExtension}.exe",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",
