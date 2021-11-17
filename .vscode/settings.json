@@ -5,6 +5,8 @@
   "debug.onTaskErrors": "abort",
   "files.associations": {
     "string": "cpp",
-    "memory": "cpp"
+    "memory": "cpp",
+    "iostream": "cpp",
+    "iomanip": "cpp"
   }
 }

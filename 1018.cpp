@@ -70,4 +70,5 @@ int main(){
     string A = "BCJ";
     cout << A[JIA_max] << " " << A[YI_max] << endl; 
     // cout << "判断完毕" << endl;
+    return 0;
 }
